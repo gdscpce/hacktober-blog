@@ -1,0 +1,39 @@
+Tree Data Structure
+A tree is a data structure hierarchical structure that is used to represent and organize data in a way that is easy to navigate and search. It is a collection of nodes that are connected by edges and has a hierarchical relationship between the nodes. 
+The topmost node of the tree is called the root, and the nodes below it is called the child nodes. Each node can have multiple child nodes, and these child nodes can also have their own child nodes, forming a recursive structure.
+This data structure is a specialized method to organize and store data in the computer to be used more effectively. It consists of a central node, structural nodes, and sub-nodes, which are connected via edges. We can also say that tree data structure has roots, branches, and leaves connected with one another.
+
+Basic Terminologies In Tree Data Structure:
+*Parent Node: The node which is a predecessor of a node is called the parent node of that node. 
+*Child Node: The node which is the immediate successor of a node is called the child node of that node. 
+*Root Node: The topmost node of a tree or the node which does not have any parent node is called the root node.
+*Leaf Node or External Node: The nodes which do not have any child nodes are called leaf nodes. 
+*Sibling: Children of the same parent node are called siblings. 
+*Level of a node: The count of edges on the path from the root node to that node. The root node has level 0.
+*Internal node: A node with at least one child is called Internal Node.
+*Neighbour of a Node: Parent or child nodes of that node are called neighbors of that node.
+*Subtree: Any node of the tree along with its descendant.
+
+Properties of Tree data structure
+*Recursive data structure: The tree is also known as a recursive data structure. A tree can be defined as recursively because the distinguished node in a tree data structure is known as a root node. The root node of the tree contains a link to all the roots of its subtrees. Recursion means reducing something in a self-similar manner. So, this recursive property of the tree data structure is implemented in various applications.
+*Number of edges: If there are n nodes, then there would n-1 edges. Each arrow in the structure represents the link or path. Each node, except the root node, will have atleast one incoming link known as an edge. There would be one link for the parent-child relationship.
+*Depth of node x: The depth of node x can be defined as the length of the path from the root to the node x. One edge contributes one-unit length in the path. So, the depth of node x can also be defined as the number of edges between the root node and the node x. The root node has 0 depth.
+*Height of node x: The height of node x can be defined as the longest path from the node x to the leaf node.
+
+Based on the properties of the Tree data structure, trees are classified into various categories.
+
+Types of Tree data structures:
+
+BINARY TREE:
+A binary Tree is defined as a Tree data structure with at most 2 children. Since each element in a binary tree can have only 2 children, we typically name them the left and right child.
+https://tinyurl.com/ypzh82lw
+
+TERNARY TREE:
+A Ternary Tree is a tree data structure in which each node has at most three child nodes, usually distinguished as “left”, “mid” and “right”.
+https://tinyurl.com/ymfv9kn3
+
+GENERIC TREE:
+Generic trees are a collection of nodes where each node is a data structure that consists of records and a list of references to its children (duplicate references are not allowed). Unlike the linked list, each node stores the address of multiple nodes. 
+https://tinyurl.com/yu6fkmff
+
+THANK YOU!

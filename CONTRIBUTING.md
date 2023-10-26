@@ -2,6 +2,7 @@
 
 This documentation contains a set of guidelines to help you during the contribution process. 
 
+###  :heavy_exclamation_mark: In order to contribute to the repo comment with your YEAR,BRANCH and NAME.
 
 # Submitting Contributions
 Below you will find the process and workflow used to review and merge your changes.

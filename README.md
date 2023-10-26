@@ -28,4 +28,6 @@ You can refer to the following articles on **_basics of Git and Github and also 
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
 
+  ###  :heavy_exclamation_mark: In order to contribute to the repo comment with your YEAR,BRANCH and NAME.
+
 <h1 align=center>Happy Coding 👨‍💻 </h1>
